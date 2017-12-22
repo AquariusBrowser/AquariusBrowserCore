@@ -1,0 +1,2 @@
+# AquariusBrowserCore
+Aquarius Browser Core
